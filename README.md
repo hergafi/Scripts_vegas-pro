@@ -1,6 +1,6 @@
-# VISFX Addons — VEGAS Pro Scripts
+VEGAS Pro Scripts
 
-Free C# scripts for **VEGAS Pro** (built for VEGAS Pro 2026 / ScriptPortal.Vegas) by **FX Prodart** (`fxprodart.com`)[cite: 3, 4].
+Free C# scripts for **VEGAS Pro** (built for VEGAS Pro 2026 / ScriptPortal.Vegas)
 
 ## Repository Contents
 
@@ -33,5 +33,4 @@ Free C# scripts for **VEGAS Pro** (built for VEGAS Pro 2026 / ScriptPortal.Vegas
 
 ## Links
 
-- **Website:** [fxprodart.com](https://fxprodart.com)[cite: 3]
 - **Repository:** [github.com/hergafi/Scripts_vegas-pro](https://github.com/hergafi/Scripts_vegas-pro)[cite: 8]
